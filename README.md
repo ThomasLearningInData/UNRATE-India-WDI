@@ -26,5 +26,6 @@ Datasets link: https://datacatalog.worldbank.org/search/dataset/0037712
 ### Key highlights
 - The primary education has the highest unemployment rate
 - Youth female with age 15-25 has higher unemployment rate compare to male.
+- There is a great improvement for secondary and tertiary education in 2005. So we should do a case study in this year to find out which key factors helped India reduce unemployment.
 
 
